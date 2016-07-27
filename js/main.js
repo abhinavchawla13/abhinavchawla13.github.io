@@ -134,7 +134,7 @@ $(function () {
     $("#closepersons-slider").owlCarousel({
         autoPlay: true,
         stopOnHover: true,
-        items: 3,
+        items: 2,
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3],
         itemsMobile: [639, 1]
